@@ -7,7 +7,7 @@ A serverless portfolio website deployed on AWS using Lambda, API Gateway, and Dy
 - **AWS Lambda**: Python 3.14 serverless function serving HTML pages
 - **API Gateway**: REST API with GET and POST endpoints
 - **DynamoDB**: NoSQL database (Madhu_Table) storing contact form submissions
-- **EmailJS**: Client-side email service sending form submissions to cloud091327@gmail.com
+- **EmailJS**: Client-side email service sending form submissions to mail
 
 ## 📁 Project Structure
 
